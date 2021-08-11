@@ -10,10 +10,10 @@ This Is API bike shop inventory (CRUD). It has several features like login, regi
 - Open this project with cd BikeShopInventoryLumen
 - Install composer
 - Run composer install
-- Create new Database with name bikeshop in http://localhost/phpmyadmin/
+- Create new Database in http://localhost/phpmyadmin/
 - Migrate Database with php artisan migrate
 - Copy file .env.example and rename it to .env
-- edit value DB_DATABASE, DB_USERNAME, DB_PASSWORD
+- Edit value DB_DATABASE, DB_USERNAME, DB_PASSWORD
 
 ### Run Development Server
 Make sure different with Front End
