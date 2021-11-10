@@ -5,18 +5,21 @@ This Is API bike shop inventory (CRUD). It has several features like login, regi
 - Laravel/Lumen (7.0)
 
 ### First Config
-- Install XAMPP for PHP 7.4
-- Download/pull this project to C:\xampp\htdocs\
+- Install Laragon
+- Download/pull this project to C:\laragon\www
 - Open this project with cd BikeShopInventoryLumen
 - Install composer
 - Run composer install
+- Download phpmyadmin and extract
+- copy folder phpmyadmin to C:\laragon\etc\apps and rename it as phpMyAdmin
+- Start Laragon
 - Create new Database in http://localhost/phpmyadmin/
 - Migrate Database with php artisan migrate
 - Copy file .env.example and rename it to .env
 - Edit value DB_DATABASE, DB_USERNAME, DB_PASSWORD
 
 ### Run Development Server
-Make sure different with Front End
+Make sure different PORT with Front End
 php -S localhost:PORT -t public 
 
 ### Run In Broswer
