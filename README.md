@@ -19,7 +19,7 @@ This Is API bike shop inventory (CRUD). It has several features like login, regi
 - Edit value DB_DATABASE, DB_USERNAME, DB_PASSWORD
 
 ### Run Development Server
-Make sure different PORT with Front End
+Make sure different PORT with Front End and same port with API_URL in .env frontend
 php -S localhost:PORT -t public 
 
 ### Run In Broswer
