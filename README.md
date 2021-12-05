@@ -9,9 +9,7 @@ This Is API bike shop inventory (CRUD). It has several features like login, regi
 - Download/pull this project to C:\laragon\www
 - Open this project with cd BikeShopInventoryLumen
 - Install composer
-- Run composer install
-- Download phpmyadmin and extract
-- copy folder phpmyadmin to C:\laragon\etc\apps and rename it as phpMyAdmin
+- Run composer install in Terminal's Laragon
 - Start Laragon
 - Create new Database in http://localhost/phpmyadmin/
 - Migrate Database with php artisan migrate
