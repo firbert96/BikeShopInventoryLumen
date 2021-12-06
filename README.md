@@ -11,7 +11,7 @@ This Is API bike shop inventory (CRUD). It has several features like login, regi
 - Install composer
 - Run composer install in Terminal's Laragon
 - Start Laragon
-- Create new Database in http://localhost/phpmyadmin/
+- Create new Database (you can use phpmyadmin, MySQLFront, MySQLYog, etc)
 - Migrate Database with php artisan migrate
 - Copy file .env.example and rename it to .env
 - Edit value DB_DATABASE, DB_USERNAME, DB_PASSWORD
