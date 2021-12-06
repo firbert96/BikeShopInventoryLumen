@@ -18,7 +18,7 @@ This Is API bike shop inventory (CRUD). It has several features like login, regi
 
 ### Run Development Server
 Make sure different PORT with Front End and same port with API_URL in .env frontend
-php -S localhost:PORT -t public 
+- php -S localhost:PORT -t public 
 
 ### Run In Broswer
 http://localhost:PORT/
@@ -28,7 +28,7 @@ Firbert Oktariko
 
 ### Big Thanks 
 I am using Template HTML this github project.
-https://github.com/davidtmiller
-https://github.com/StartBootstrap/startbootstrap-sb-admin-2 
+- https://github.com/davidtmiller
+- https://github.com/StartBootstrap/startbootstrap-sb-admin-2 
 
 ### Hopefully this project can help people to understand basic CRUD using Back End(Laravel/Lumen)
