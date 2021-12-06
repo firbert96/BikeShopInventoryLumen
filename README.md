@@ -1,4 +1,4 @@
-### Back End(Laravel/Lumen) Bike Shop Inventory (For Educational Purpose)
+# Back End(Laravel/Lumen) Bike Shop Inventory (For Educational Purpose)
 This Is API bike shop inventory (CRUD). It has several features like login, register, logout, edit user, create product, edit product, delete product, show all list product, and edit quantity. Especially for edit quantity, you increase quantity products as supplier and decrease quantity products as buyer. You also can see Inventory quantity flow buyer and supplier.
 
 ### Programming Language
